@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744ad445-b740-4956-a5b7-00c65c3a32be" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1458953.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1482973.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1595621.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1754574.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/1929930.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2017699.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2307941.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2311172.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2311470.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2382302.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2426558.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2515350.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2566253.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2569049.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2593189.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2680807.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2739040.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2766415.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2769250.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2796753.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/2927220.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3056579.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3084646.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3101305.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3158953.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3255367.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3274344.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3383525.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3450617.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3487292.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3699782.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3732805.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3740014.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3751000.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3788799.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3851776.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/3898139.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4033741.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4039733.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4047099.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4160941.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4306397.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4595659.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4781213.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4820982.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4982381.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/4999719.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5021041.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5030378.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5127525.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5162562.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5244395.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5255746.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5319809.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5344669.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5400889.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5428800.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5470647.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5561813.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5718705.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5725334.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5729669.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5792355.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/5912049.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6062407.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6127146.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6162516.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6212305.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6242132.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6442855.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6449867.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6465325.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6697581.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6719257.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6760144.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6934108.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6943569.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/6966278.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7019941.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7046104.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7097088.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7317149.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7353129.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7396192.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7398350.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7524004.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7530436.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7703300.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/7895489.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8186229.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8331902.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8565098.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8728230.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8816052.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8864303.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8923500.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8934692.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/8947011.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9071768.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9073222.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9095638.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9132621.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9162257.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9458267.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9563378.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9584935.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.tmp.drivedownload/9712395.driveupload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cwiczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cwiczenie1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cwiczenie1c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Magnesiki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PiosenkaOPiwie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dysk/Dysk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greetMsg/GreetMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaWelcome/JavaWelcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poryRoku/PoryRoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/r01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/out/production/Array/pl/sda/array/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/out/production/Array/pl/sda/primitive_vs_reference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/out/production/Array/pl/sda/varargs/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/out/production/Array/pl/sda/varargs/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/array/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/primitive_vs_reference/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/primitive_vs_reference/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/varargs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Array/src/pl/sda/varargs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SDAKurs/Polimor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/.idea/dictionaries/KRIS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/Dziedziczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/dziedziczenie/Dziedziczenie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/dziedziczenie/potwory/Potwor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/dziedziczenie/potwory/Szkielet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/build/classes/dziedziczenie/potwory/Zombie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/src/dziedziczenie/Pająk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/src/dziedziczenie/potwory/Potwor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/src/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Dziedziczenie/src/dziedziczenie/potwory/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/InstanceOF/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/InstanceOF/src/pkginstanceof/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/Metody.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/out/production/Metody/Metody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/out/production/Metody/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Metody/src/Metody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/Udemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/Enkapsulacja.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/KontoBankowe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/referencje/Referencje.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/referencje/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/referencje2/Foo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/referencje2/Referencje2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/out/production/Udemy/referencje2/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/Enkapsulacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/butelka/Butelka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/butelka2/Butelka2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/dziedziczenie/potwory/Potwor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/dziedziczenie/potwory/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/interfejsy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/klasyWewnetrzKonto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/klasywew/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/referencje/Referencje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Udemy/src/referencje2/Referencje2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates/r01/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="r01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/r01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cwiczenie1c.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cwiczenie1c.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Magnesiki.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Magnesiki.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaWelcome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaWelcome/JavaWelcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dysk.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dysk/Dysk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+              <folding>
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GreetMsg.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/greetMsg/GreetMsg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PoryRoku.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/poryRoku/PoryRoku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cwiczenie1b.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cwiczenie1b.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cwiczenie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cwiczenie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Cwiczenie1a.java" />
+        <option value="$PROJECT_DIR$/src/r01/Cwiczenie1a.java" />
+        <option value="$PROJECT_DIR$/src/Cwiczenie.java" />
+        <option value="$PROJECT_DIR$/src/PiosenkaOPiwie.java" />
+        <option value="$PROJECT_DIR$/src/r01.java" />
+        <option value="$PROJECT_DIR$/src/Cwiczenie1b.java" />
+        <option value="$PROJECT_DIR$/src/Cwiczenie1c.java" />
+        <option value="$PROJECT_DIR$/src/Magnesiki.java" />
+        <option value="$PROJECT_DIR$/src/javaWelcome/JavaWelcome.java" />
+        <option value="$PROJECT_DIR$/src/dysk/Dyski.java" />
+        <option value="$PROJECT_DIR$/src/dysk/Dysk.java" />
+        <option value="$PROJECT_DIR$/src/greetMsg/GreetMsg.java" />
+        <option value="$PROJECT_DIR$/src/poryRoku/PoryRoku.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dysk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="greetMsg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaWelcome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="r01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="r01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="poryRoku" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Udemy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProjekty\RuszGlowa\r01\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProjekty\RuszGlowa\r01" />
+      <recent name="E:\JavaProjekty\RuszGlowa\r01\src\javaWelcome" />
+      <recent name="E:\JavaProjekty\RuszGlowa\r01\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PoryRoku">
+    <configuration name="GreetMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greetMsg.GreetMsg" />
+      <module name="r01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greetMsg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JavaWelcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaWelcome.JavaWelcome" />
+      <module name="r01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaWelcome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Magnesiki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Magnesiki" />
+      <module name="r01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="PoryRoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poryRoku.PoryRoku" />
+      <module name="r01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poryRoku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dysk.Test" />
+      <module name="r01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dysk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Magnesiki" />
+      <item itemvalue="Application.JavaWelcome" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.GreetMsg" />
+      <item itemvalue="Application.PoryRoku" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PoryRoku" />
+        <item itemvalue="Application.GreetMsg" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.JavaWelcome" />
+        <item itemvalue="Application.Magnesiki" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744ad445-b740-4956-a5b7-00c65c3a32be" name="Default" comment="" />
+      <created>1523089717179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523089717179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3297414" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32942432" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989224" visible="true" weight="0.18336888" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5010776" side_tool="true" weight="0.18336888" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/r01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PiosenkaOPiwie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Magnesiki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PiosenkaOPiwie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Magnesiki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r01/Cwiczenie1a.java" />
+    <entry file="file://$PROJECT_DIR$/src/PiosenkaOPiwie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/r01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cwiczenie1c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Magnesiki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="270" column="29" selection-start-line="270" selection-start-column="29" selection-end-line="270" selection-end-column="29" />
+          <folding>
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaWelcome/JavaWelcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dysk/Dysk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greetMsg/GreetMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/poryRoku/PoryRoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
