@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dokumentowanie/Dokumentowanie.iml" filepath="$PROJECT_DIR$/Dokumentowanie/Dokumentowanie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jframe/Jframe.iml" filepath="$PROJECT_DIR$/Jframe/Jframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KlasyWewnetrzne/KlasyWewnetrzne.iml" filepath="$PROJECT_DIR$/KlasyWewnetrzne/KlasyWewnetrzne.iml" />
       <module fileurl="file://$PROJECT_DIR$/KolekcjaZbiorMapaLista/KolekcjaZbiorMapaLista.iml" filepath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/KolekcjaZbiorMapaLista.iml" />
       <module fileurl="file://$PROJECT_DIR$/Udemy.iml" filepath="$PROJECT_DIR$/Udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/WyrazeniaLambda/WyrazeniaLambda.iml" filepath="$PROJECT_DIR$/WyrazeniaLambda/WyrazeniaLambda.iml" />
