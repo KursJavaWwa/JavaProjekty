@@ -1,9 +1,9 @@
-package butelka2;
+/*package butelka2;
 
 import butelka.Butelka;
 
 public class Butelka2 {
-    Butelka(double ileLitrow) {
+    Butelka2(double ileLitrow) {
 
     }
 
@@ -80,4 +80,4 @@ public class Butelka2 {
     }
 }
 
-
+*/

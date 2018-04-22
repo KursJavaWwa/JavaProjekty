@@ -1,235 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88418427-d464-4464-a0c5-8a4315ccf929" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/1458953.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/1482973.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/1595621.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/1754574.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/1929930.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2017699.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2307941.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2311172.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2311470.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2382302.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2426558.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2515350.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2566253.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2569049.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2593189.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2680807.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2739040.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2766415.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2769250.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2796753.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/2927220.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3056579.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3084646.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3101305.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3158953.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3255367.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3274344.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3383525.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3450617.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3487292.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3699782.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3732805.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3740014.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3751000.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3788799.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3851776.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/3898139.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4033741.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4039733.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4047099.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4160941.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4306397.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4595659.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4781213.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4820982.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4982381.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/4999719.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5021041.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5030378.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5127525.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5162562.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5244395.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5255746.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5319809.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5344669.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5400889.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5428800.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5470647.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5561813.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5718705.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5725334.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5729669.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5792355.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/5912049.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6062407.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6127146.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6162516.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6212305.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6242132.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6442855.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6449867.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6465325.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6697581.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6719257.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6760144.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6934108.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6943569.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/6966278.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7019941.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7046104.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7097088.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7317149.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7353129.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7396192.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7398350.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7524004.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7530436.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7703300.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/7895489.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8186229.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8331902.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8565098.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8728230.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8816052.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8864303.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8923500.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8934692.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/8947011.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9071768.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9073222.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9095638.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9132621.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9162257.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9458267.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9563378.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9584935.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.tmp.drivedownload/9712395.driveupload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/.idea/java_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/Cwiczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/Cwiczenie1b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/Cwiczenie1c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/Magnesiki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/PiosenkaOPiwie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/dysk/Dysk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/greetMsg/GreetMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/javaWelcome/JavaWelcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/poryRoku/PoryRoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RuszGlowa/r01/src/r01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/out/production/Array/pl/sda/array/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/out/production/Array/pl/sda/primitive_vs_reference/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/out/production/Array/pl/sda/varargs/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/out/production/Array/pl/sda/varargs/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/primitive_vs_reference/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/primitive_vs_reference/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/varargs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Array/src/pl/sda/varargs/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDAKurs/Polimor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/KRIS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/Dziedziczenie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/.netbeans_automatic_build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/.netbeans_update_resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/dziedziczenie/Dziedziczenie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/dziedziczenie/potwory/Potwor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/dziedziczenie/potwory/Szkielet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/build/classes/dziedziczenie/potwory/Zombie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/manifest.mf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/nbproject/build-impl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/nbproject/genfiles.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/nbproject/private/private.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/nbproject/project.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/nbproject/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/src/dziedziczenie/Pająk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/src/dziedziczenie/potwory/Potwor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/src/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dziedziczenie/src/dziedziczenie/potwory/Zombie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InstanceOF/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InstanceOF/src/pkginstanceof/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/JavaStartWątki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/src/formatter/Format1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/src/formatter/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStartWątki/src/myRun/MyRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasyAnonimowe/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasyAnonimowe/src/agregacja/Agregacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KlasyAnonimowe/src/klasyanonimowe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/KolekcjaZbiorMapaLista.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/arrayList/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/arrayList/arayListLambda/LambdaWyrazenia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/fokusonlinkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/kolekcjeitp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/mapy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/metodygeneryczne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/typygeneryczne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/wildcards/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KolekcjaZbiorMapaLista/src/wildcards/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/Metody.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/out/production/Metody/Metody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/out/production/Metody/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Metody/src/Metody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wyjątki/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wyjątki/src/arrayList/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wyjątki/src/butelka/Butelka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wyjątki/src/typygeneryczne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wyjątki/src/wildcards/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WyrazeniaLambda/WyrazeniaLambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WyrazeniaLambda/src/klasyanonimowe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WyrazeniaLambda/src/metodydomyslne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YouTube/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YouTube/src/ArrayListTest/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/Enkapsulacja.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/KontoBankowe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/referencje/Referencje.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/referencje/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/referencje2/Foo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/referencje2/Referencje2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Udemy/referencje2/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enkapsulacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/butelka/Butelka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/butelka2/Butelka2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/Dziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/potwory/Potwor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dziedziczenie/potwory/Zombie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfejsy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klasyWewnetrzKonto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/klasywew/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencje/Referencje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/referencje2/Referencje2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-rusz-glowa-wydanie-ii-kathy-sierra-bert-bates/r01/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="88418427-d464-4464-a0c5-8a4315ccf929" name="Default" comment="Ramka1">
+      <change afterPath="$PROJECT_DIR$/Jframe/Jframe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jframe/src/centrowanieramki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jframe/src/ramka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jframe/src/ukladgraficzny/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnJavaOnLine/ExPrimitiv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/butelka/Butelka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/butelka/Butelka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/butelka2/Butelka2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/butelka2/Butelka2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -254,32 +35,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WyrazeniaLambda/src/klasyanonimowe/Main.java">
+      <file leaf-file-name="ExPrimitiv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learnJavaOnLine/ExPrimitiv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jframe/src/ramka/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding>
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jframe/src/centrowanieramki/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WyrazeniaLambda/src/metodydomyslne/Main.java">
+        <entry file="file://$PROJECT_DIR$/Jframe/src/ukladgraficzny/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -294,6 +87,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="K" />
+        <option value="Krzysztof Kaczyński &lt;qris70@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -302,8 +101,6 @@
         <option value="$PROJECT_DIR$/src/Enkapsulacja.java" />
         <option value="$PROJECT_DIR$/src/referencje/Referencje.java" />
         <option value="$PROJECT_DIR$/src/referencje2/Referencje2.java" />
-        <option value="$PROJECT_DIR$/src/butelka/Butelka.java" />
-        <option value="$PROJECT_DIR$/src/butelka2/Butelka2.java" />
         <option value="$PROJECT_DIR$/src/dziedziczenie/potwory/Potwor.java" />
         <option value="$PROJECT_DIR$/src/dziedziczenie/Dziedziczenie.java" />
         <option value="$PROJECT_DIR$/src/dziedziczenie/potwory/Szkielet.java" />
@@ -326,10 +123,15 @@
         <option value="$PROJECT_DIR$/WyrazeniaLambda/src/Main.java" />
         <option value="$PROJECT_DIR$/WyrazeniaLambda/src/klasyanonimowe/Main.java" />
         <option value="$PROJECT_DIR$/WyrazeniaLambda/src/metodydomyslne/Main.java" />
+        <option value="$PROJECT_DIR$/src/learnJavaOnLine/ExPrimitiv.java" />
+        <option value="$PROJECT_DIR$/src/butelka/Butelka.java" />
+        <option value="$PROJECT_DIR$/src/butelka2/Butelka2.java" />
+        <option value="$PROJECT_DIR$/Jframe/src/ramka/Main.java" />
+        <option value="$PROJECT_DIR$/Jframe/src/centrowanieramki/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -344,9 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -357,45 +156,42 @@
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jframe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="WyrazeniaLambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Jframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="centrowanieramki" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="WyrazeniaLambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Jframe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ramka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="WyrazeniaLambda" type="462c0819:PsiDirectoryNode" />
+              <item name="Jframe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="klasyanonimowe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="WyrazeniaLambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="klasyanonimowe" type="462c0819:PsiDirectoryNode" />
-              <item name="Main.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="WyrazeniaLambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="metodydomyslne" type="462c0819:PsiDirectoryNode" />
+              <item name="ukladgraficzny" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -421,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrayList.ArrayListTest" />
       <module name="KolekcjaZbiorMapaLista" />
@@ -433,10 +229,38 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Enkapsulacja" />
+    <configuration name="ExPrimitiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnJavaOnLine.ExPrimitiv" />
       <module name="Udemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJavaOnLine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramka.Main" />
+      <module name="Jframe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="centrowanieramki.Main" />
+      <module name="Jframe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="centrowanieramki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="typygeneryczne.Main" />
@@ -445,28 +269,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="typygeneryczne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Referencje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="referencje.Referencje" />
-      <module name="Udemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="referencje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Referencje2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="referencje2.Referencje2" />
-      <module name="Udemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="referencje2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -513,19 +315,18 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Enkapsulacja" />
-      <item itemvalue="Application.Referencje" />
-      <item itemvalue="Application.Referencje2" />
+      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ArrayListTest" />
+      <item itemvalue="Application.ExPrimitiv" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ExPrimitiv" />
         <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Referencje2" />
-        <item itemvalue="Application.Referencje" />
-        <item itemvalue="Application.Enkapsulacja" />
       </list>
     </recent_temporary>
   </component>
@@ -543,22 +344,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3297414" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3297414" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="right" id="Run" order="8" weight="0.23507462" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3297414" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.23507462" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19829424" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3297414" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -569,7 +370,6 @@
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3297414" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
@@ -578,35 +378,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ramka1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ramka1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/potwory/Potwor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/potwory/Szkielet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/dziedziczenie/potwory/Zombie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/klasyWewnetrzKonto/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dziedziczenie/Dziedziczenie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -747,20 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/butelka/Butelka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/butelka2/Butelka2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/dziedziczenie/potwory/Zombie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -859,9 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -883,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,45 +651,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#778#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KlasyAnonimowe/src/agregacja/Agregacja.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17460.13996/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-end-line="62" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17460.13996/Main.java" />
     <entry file="file://$PROJECT_DIR$/WyrazeniaLambda/src/klasyanonimowe/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
+        <state relative-caret-position="476">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WyrazeniaLambda/src/metodydomyslne/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/butelka/Butelka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
           <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#0#1718#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/butelka2/Butelka2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#2398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learnJavaOnLine/ExPrimitiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jframe/src/centrowanieramki/HQv2vJfY.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jframe/src/ramka/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jframe/src/centrowanieramki/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jframe/src/ukladgraficzny/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>

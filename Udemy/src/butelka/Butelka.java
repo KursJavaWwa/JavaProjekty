@@ -1,18 +1,27 @@
-package butelka;
+/*package butelka;
 
 public class Butelka {
     private double ileLitrow;
 
-    Butelka(double ileLitrow)
+    public Butelka(double ileLitrow)
     {
         this.ileLitrow = ileLitrow;
     }
 
-    double getIleLitrow()
+    public Butelka() {
+
+    }
+
+    public double getIleLitrow()
     {
         return ileLitrow;
     }
-    void wlej(double ilosc)
+
+    public void wlej(pojemnosc) {
+        wlej();
+    }
+
+    public void wlej(double ilosc, pojemnosc)
     {
         this.ileLitrow += ilosc;
     }
@@ -30,7 +39,8 @@ public class Butelka {
     {
         if (this.wylej(ilosc))
         {
-            gdziePrzelac.wlej(ilosc);
+            Butelka[] butelka = new Butelka[0];
+            gdziePrzelac.wlej(ilosc, butelka[0].getPojemnosc());
         }
         else
             System.out.println("Za mało");
@@ -44,7 +54,7 @@ public class Butelka {
         butelka[1] = new Butelka(8);
         butelka[2] = new Butelka(10);
 
-        butelka[0].wlej(4);
+        butelka[0].wlej(4, butelka[0].getPojemnosc());
 
         butelka[0].przelej(25, butelka[1]);
 
@@ -54,10 +64,31 @@ public class Butelka {
 
     }
 
+    public void setIleLitrow(int i) {
+
+    }
+
+    public void setPojemnosc(int i) {
+
+    }
+
+    public void getPojemnosc() {
+
+
+
+    }
+
+    public double wlej(double ilosc, double maxPojemnosc) {
+        return 0;
+    }
+
+    public void przelej(int i, Butelka butelka, void pojemnosc) {
+
+    }
 }
 
 
-
+*/
 
 
 
