@@ -1,4 +1,4 @@
-package ramka;
+/*package ramka;
 
 import javax.swing.*;
 
@@ -26,7 +26,7 @@ public class Main extends JFrame {
 
 
         */
-        super("tytuł ramki");
+   /*     super("tytuł ramki");
 
 
         this.setBounds(100, 50, 300, 100);
@@ -40,3 +40,4 @@ public class Main extends JFrame {
         new Main().setVisible(true);
     }
 }
+*/

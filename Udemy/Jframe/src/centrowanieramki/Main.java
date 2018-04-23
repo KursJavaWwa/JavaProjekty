@@ -1,4 +1,4 @@
-package centrowanieramki;
+/*package centrowanieramki;
 
 import javax.swing.*;
 import java.awt.*;
@@ -19,7 +19,7 @@ public class Main extends JFrame {
 
         this.setLocation((szer - szerRamki) / 2, (wys - wysRamki) / 2); //zawsze środek
 
-        //this.setIconImage(Toolkit.getDefaultToolkit().getImage("HQv2vJfY.jpg"));
+        this.setIconImage(Toolkit.getDefaultToolkit().getImage("HQv2vJfY.jpg"));
 
 
         //System.out.println(szer);
@@ -33,3 +33,4 @@ public class Main extends JFrame {
         new Main().setVisible(true);
     }
 }
+*/
